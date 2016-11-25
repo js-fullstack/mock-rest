@@ -64,7 +64,7 @@ mock('/users',[{
 mock.listen(3000);
 
 ```
-
+Now, access site http://yourhost:3000/api
 
 
 
